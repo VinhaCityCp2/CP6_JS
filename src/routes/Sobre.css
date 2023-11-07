@@ -1,0 +1,94 @@
+.integrantes_geral{
+    color: whitesmoke;
+    background: black;
+}
+
+.integrantes{
+    max-width: 20%;
+}
+
+
+.grupo1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagem_fazito{
+    max-width: 91%;
+    border-radius: 100px;
+    border-style: groove;
+    border-width: 7px;
+    box-shadow: 1px 1px 30px 3px rgb(77, 4, 214);
+    margin-bottom: 15px;
+}
+.imagem_fazito:hover{
+    box-shadow: 1px 1px 30px 3px rgb(4, 42, 255);
+}
+
+.imagem_rai{
+    border-radius: 100px;
+    max-width: 98%;
+    border-style: groove;
+    border-width: 7px;
+    box-shadow: 1px 1px 30px 3px rgb(77, 4, 214);
+    margin-bottom: 15px;
+}
+.imagem_rai:hover{
+    box-shadow: 1px 1px 30px 3px rgb(4, 42, 255);
+}
+
+.grupo2{
+    display: flex;
+    justify-content: center;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+}
+
+.imagem_ian{
+    border-radius: 70px;
+    width: 100%;
+    border-style: groove;
+    border-width: 7px;
+    margin-bottom: 15px;
+    margin-right: 70px;
+    box-shadow: 1px 1px 30px 3px rgb(77, 4, 214);
+}
+
+.imagem_ian:hover{
+    box-shadow: 1px 1px 30px 3px rgb(4, 42, 255);
+}
+
+.imagem_lima{
+    border-radius: 70px;
+    border-style: groove;
+    max-width: 74%;
+    border-width: 7px;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 30px 3px rgb(77, 4, 214);
+}
+
+.imagem_lima:hover{
+    box-shadow: 1px 1px 30px 3px rgb(4, 42, 255);
+}
+
+.imagem_laes{
+    border-radius: 70px;
+    border-style: groove;
+    border-width: 7px;
+    max-width: 80%;
+    margin-bottom: 15px;
+    margin-right: 70px;
+    box-shadow: 1px 1px 30px 3px rgb(77, 4, 214);
+}
+
+.texto_laes{
+    margin-right: 70px;
+}
+
+.imagem_laes:hover{
+    box-shadow: 1px 1px 30px 3px rgb(4, 42, 255);
+}
+
+

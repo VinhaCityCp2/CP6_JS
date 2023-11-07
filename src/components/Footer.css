@@ -1,0 +1,22 @@
+.footer_geral{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: black;
+    
+}
+
+.icon{
+    color: whitesmoke;
+    padding: 2%;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+}
+.icones{
+    margin-right: 50px;
+}
+
+.footer{
+    color: whitesmoke;
+}

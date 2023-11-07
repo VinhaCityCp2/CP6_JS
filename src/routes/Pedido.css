@@ -1,0 +1,20 @@
+.pedidos_geral{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1%;
+    max-width: 40%;
+    padding: 1%;
+    background-color: rgb(30, 1, 85);
+    color: whitesmoke;
+    border-radius: 200px;
+}
+
+.titulos{
+    padding: 15px 30px;
+}
+
+td{
+    
+    text-align: center;
+}

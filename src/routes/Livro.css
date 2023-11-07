@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.pedidos_geral{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1%;
+    margin-left: 29%;
+    max-width: 40%;
+    padding: 5%;
+    background-color: rgb(30, 1, 85);
+    color: whitesmoke;
+    border-radius: 200px;
+}
+
+.titulos{
+    padding: 10px 40px;
+}
+
+td{
+    padding: 10px 25px;
+    text-align: center;
+}
+
+.Inserir_pedido{
+    margin-top: 15%;
+}
